@@ -41,7 +41,7 @@ cd HackED
 
 ### 2. Configure your Groq API key
 
-Create a file named:
+Create a file named (if not created yet):
 
 ```text
 GROQ_API_KEY
