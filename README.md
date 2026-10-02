@@ -481,6 +481,6 @@ Some names may resemble real-world organizations or services, but they are used 
   \$$$$$$    \$$    \$$   \$$    \$$    
                                         
 
-STAY IN THE DARK.
-OPERATOR.
+Stay in the dark,
+operator.
 ```
